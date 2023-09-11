@@ -26,7 +26,7 @@ RUN apt-get update -yq \
     jq \
     make \
     nmap \
-    postgresql \
+    postgresql-client \
     python3-pip \
     python3-setuptools \
     sudo \
